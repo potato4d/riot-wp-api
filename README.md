@@ -30,7 +30,7 @@
     $ npm run
     ```
 
-## Forks
+## wckansai2016/node-wp-api Forks
 
 - AngularJS
 
