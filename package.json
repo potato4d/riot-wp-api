@@ -1,0 +1,21 @@
+{
+  "name": "riot-wp-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "browserify -t riotify ./src/main.js -o res/bundle.js"
+  },
+  "author": "Potato4d",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "riot": "^2.5.0"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.1",
+    "riotify": "^1.0.1"
+  }
+}
